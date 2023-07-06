@@ -1,0 +1,14 @@
+.grid-cell{
+    width: 120px; 
+    height: 120px; 
+    background-color: blue; 
+    margin: 1px;
+}
+
+ .board .row div:first-child{
+    margin: 1px 1px 1px auto;
+}
+
+.board .row div:last-child{
+    margin: 1px auto 1px 1px;
+}
